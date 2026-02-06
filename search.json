@@ -1,0 +1,102 @@
+[
+  {
+    "objectID": "modules/01-python/module.html",
+    "href": "modules/01-python/module.html",
+    "title": "Module 1: Python for AI Engineering",
+    "section": "",
+    "text": "By the end of this module, you will be able to:\n\nWrite clean, production-grade Python\nUnderstand Python data structures deeply\nBuild intuition for how Python powers AI systems",
+    "crumbs": [
+      "Home",
+      "Module 1: Python for AI Engineering",
+      "Module 1: Python for AI Engineering"
+    ]
+  },
+  {
+    "objectID": "modules/01-python/module.html#learning-outcomes",
+    "href": "modules/01-python/module.html#learning-outcomes",
+    "title": "Module 1: Python for AI Engineering",
+    "section": "",
+    "text": "By the end of this module, you will be able to:\n\nWrite clean, production-grade Python\nUnderstand Python data structures deeply\nBuild intuition for how Python powers AI systems",
+    "crumbs": [
+      "Home",
+      "Module 1: Python for AI Engineering",
+      "Module 1: Python for AI Engineering"
+    ]
+  },
+  {
+    "objectID": "modules/01-python/module.html#module-structure",
+    "href": "modules/01-python/module.html#module-structure",
+    "title": "Module 1: Python for AI Engineering",
+    "section": "Module Structure",
+    "text": "Module Structure\n\nPython fundamentals\nControl flow and functions\nData structures\nPythonic thinking\nNotebook and scripting workflows",
+    "crumbs": [
+      "Home",
+      "Module 1: Python for AI Engineering",
+      "Module 1: Python for AI Engineering"
+    ]
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Course Syllabus",
+    "section": "",
+    "text": "Python for AI Engineering\n\nData Science Foundations\n\nMathematics for Machine Learning\n\nMachine Learning\n\nDeep Learning\n\nNatural Language Processing\n\nGenerative AI\n\nLarge Language Models\n\nRetrieval-Augmented Generation\n\nMLOps & Deployment\n\nCapstone Projects"
+  },
+  {
+    "objectID": "syllabus.html#curriculum-overview",
+    "href": "syllabus.html#curriculum-overview",
+    "title": "Course Syllabus",
+    "section": "",
+    "text": "Python for AI Engineering\n\nData Science Foundations\n\nMathematics for Machine Learning\n\nMachine Learning\n\nDeep Learning\n\nNatural Language Processing\n\nGenerative AI\n\nLarge Language Models\n\nRetrieval-Augmented Generation\n\nMLOps & Deployment\n\nCapstone Projects"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Modern AI Engineering",
+    "section": "",
+    "text": "A full-stack AI & Data Science curriculum designed to take learners from beginner foundations to job-ready AI engineers.\n\n\n\nPython for AI & Data Science\nMathematics for Machine Learning\nMachine Learning & Deep Learning\nNLP, Generative AI, LLMs & RAG\nMLOps and production systems\n\n👉 Start with Module 1: Python for AI Engineering from the sidebar."
+  },
+  {
+    "objectID": "index.html#from-python-to-production-ai-systems",
+    "href": "index.html#from-python-to-production-ai-systems",
+    "title": "Modern AI Engineering",
+    "section": "",
+    "text": "A full-stack AI & Data Science curriculum designed to take learners from beginner foundations to job-ready AI engineers.\n\n\n\nPython for AI & Data Science\nMathematics for Machine Learning\nMachine Learning & Deep Learning\nNLP, Generative AI, LLMs & RAG\nMLOps and production systems\n\n👉 Start with Module 1: Python for AI Engineering from the sidebar."
+  },
+  {
+    "objectID": "modules/01-python/lessons/01-python-basics.html",
+    "href": "modules/01-python/lessons/01-python-basics.html",
+    "title": "Python Basics for AI Engineers",
+    "section": "",
+    "text": "Python is not fast — ecosystems are fast.\nAI engineers choose Python because: - libraries encode decades of research - prototyping speed matters more than micro-optimizations - production bottlenecks are elsewhere",
+    "crumbs": [
+      "Home",
+      "Module 1: Python for AI Engineering",
+      "Python Basics for AI Engineers"
+    ]
+  },
+  {
+    "objectID": "modules/01-python/lessons/01-python-basics.html#why-python-dominates-ai",
+    "href": "modules/01-python/lessons/01-python-basics.html#why-python-dominates-ai",
+    "title": "Python Basics for AI Engineers",
+    "section": "",
+    "text": "Python is not fast — ecosystems are fast.\nAI engineers choose Python because: - libraries encode decades of research - prototyping speed matters more than micro-optimizations - production bottlenecks are elsewhere",
+    "crumbs": [
+      "Home",
+      "Module 1: Python for AI Engineering",
+      "Python Basics for AI Engineers"
+    ]
+  },
+  {
+    "objectID": "modules/01-python/lessons/01-python-basics.html#variables-and-types",
+    "href": "modules/01-python/lessons/01-python-basics.html#variables-and-types",
+    "title": "Python Basics for AI Engineers",
+    "section": "Variables and Types",
+    "text": "Variables and Types\nx = 10\ny = 3.14\nname = \"AI\"",
+    "crumbs": [
+      "Home",
+      "Module 1: Python for AI Engineering",
+      "Python Basics for AI Engineers"
+    ]
+  }
+]
