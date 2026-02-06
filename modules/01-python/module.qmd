@@ -1,21 +1,14 @@
 ---
-title: "Module 1: Python for AI Engineering"
----
 
-## Learning Outcomes
+## How This Module Is Structured
 
-By the end of this module, you will be able to:
+1. Python fundamentals and mental models  
+2. Control flow and functions  
+3. Core data structures  
+4. Writing Pythonic code  
+5. Working with notebooks and scripts  
 
-- Write clean, production-grade Python
-- Understand Python data structures deeply
-- Build intuition for how Python powers AI systems
-
----
-
-## Module Structure
-
-- Python fundamentals
-- Control flow and functions
-- Data structures
-- Pythonic thinking
-- Notebook and scripting workflows
+Each lesson includes:
+- explanations
+- runnable code
+- exercises

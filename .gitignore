@@ -9,3 +9,6 @@ _site/
 
 # OS
 .DS_Store
+
+/.quarto/
+**/*.quarto_ipynb
