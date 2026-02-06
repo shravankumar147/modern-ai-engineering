@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "quarto.renderOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false
+}

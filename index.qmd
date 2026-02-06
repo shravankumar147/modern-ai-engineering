@@ -1,0 +1,18 @@
+---
+title: "Modern AI Engineering"
+---
+
+## From Python to Production AI Systems
+
+A full-stack AI & Data Science curriculum designed to take learners from
+**beginner foundations** to **job-ready AI engineers**.
+
+### What You’ll Learn
+
+- Python for AI & Data Science
+- Mathematics for Machine Learning
+- Machine Learning & Deep Learning
+- NLP, Generative AI, LLMs & RAG
+- MLOps and production systems
+
+👉 Start with **Module 1: Python for AI Engineering** from the sidebar.

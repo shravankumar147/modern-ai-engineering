@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Quarto
+_site/
+.quarto/
+
+# OS
+.DS_Store

@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Modern AI Engineering"
+  site-url: https://YOUR_USERNAME.github.io/modern-ai-engineering
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - text: Modules
+        href: modules/01-python/module.qmd
+    right:
+      - icon: github
+        href: https://github.com/YOUR_USERNAME/modern-ai-engineering
+
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - section: "Module 1: Python for AI Engineering"
+        contents:
+          - modules/01-python/module.qmd
+          - modules/01-python/lessons/01-python-basics.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-copy: true
+  pdf:
+    documentclass: book
+    toc: true
+    number-sections: true

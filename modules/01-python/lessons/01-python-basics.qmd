@@ -1,0 +1,20 @@
+---
+title: "Python Basics for AI Engineers"
+---
+
+## Why Python Dominates AI
+
+Python is not fast — **ecosystems are fast**.
+
+AI engineers choose Python because:
+- libraries encode decades of research
+- prototyping speed matters more than micro-optimizations
+- production bottlenecks are elsewhere
+
+## Variables and Types
+
+```python
+x = 10
+y = 3.14
+name = "AI"
+```

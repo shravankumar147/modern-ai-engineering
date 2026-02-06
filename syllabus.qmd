@@ -1,0 +1,17 @@
+---
+title: "Course Syllabus"
+---
+
+## Curriculum Overview
+
+1. Python for AI Engineering  
+2. Data Science Foundations  
+3. Mathematics for Machine Learning  
+4. Machine Learning  
+5. Deep Learning  
+6. Natural Language Processing  
+7. Generative AI  
+8. Large Language Models  
+9. Retrieval-Augmented Generation  
+10. MLOps & Deployment  
+11. Capstone Projects
